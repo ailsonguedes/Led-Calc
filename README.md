@@ -4,7 +4,7 @@
 
 <div align='center'>
   <a href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)" target="_blank">
-      <img src="./img/django_logo.png" width="150" height="150" />
+      <img src="./img/c_logo.png" width="150" height="150" />
   </a>
 </div>
 
